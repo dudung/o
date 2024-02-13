@@ -1,2 +1,2 @@
 # slide
-collection of slides for course, seminar, conference, internal discussion, etc
+collection of slides for courses, seminars, conferences, workshops, internal discussions, etc
