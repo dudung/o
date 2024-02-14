@@ -8,6 +8,9 @@ math = true
 Collection of information about noise and vibration
 <!--more-->
 
++ slide N/A (on 14-feb)
++ story https://medium.com/p/617655776d61 (on 14-feb)
+
 
 ## source
 At position $\vec{r}_s$ there is source of vibration
@@ -32,7 +35,77 @@ Sound waves are accomodated by Eqn (2), while waves on solid are by Eqn (3). The
 
 
 ## wave
-Function represents wave
-$$\tag{2}
-\psi({\vec{r}, t}) = 
+Function represents wave from previous source of vibration
+
+$$\tag{4}
+\psi({\vec{r}, t}) = \sum_{i=1}^N A_i \sin(\omega_i t + \varphi_i - k_i |\vec{r} - \vec{r}_s|),
 $$
+
+where wavenumber is
+
+$$\tag{5}
+k = \frac{2\pi}{\lambda}
+$$
+
+with wavelength $\lambda$. If $v$ is wave velocity then it is obtained from
+
+$$\tag{6}
+v = \frac{\omega}{k}
+$$
+
+or
+
+$$\tag{7}
+v = \frac{\lambda}{T} = \lambda f.
+$$
+
+
+## intensity
+Intensity at vibration source is proportional to square of amplitude
+
+$$\tag{8}
+I_s \propto  | A |^2
+$$
+
+and at distance $r$ from the source
+
+$$\tag{9}
+I(r) = \frac{r_o^2}{r^2} I_s
+$$
+
+for sound assuming it is spreading as spherical wave, where $r_o$ is size of the source.
+
+
+## resonance
+When wave arrives at some position $\vec{r}_j$ it will induce vibration on that position which can be considered as sinusoidal driving force with amplitude $F_0$ and frequency $\omega$. Equation of motion at that placew would be
+
+$$\tag{10}
+m \frac{d^2 \psi}{dt^2} + b \frac{d\psi}{dt} + k \psi = F_0 \cos (\omega t + \varphi_d)
+$$
+
+with damping coefficient $b$, spring constant $k$, and mass $m$. Then it can be obtained that
+
+$$\tag{11}
+A_j = \frac{F_0/m}{\sqrt{(\omega_0^2 - \omega^2)^2 + 4\gamma^2
+\omega^2}}
+$$
+
+is the amplitude at that position, where
+
+$$\tag{12}
+\omega_0 = \sqrt\frac{k}{m}
+$$
+
+and
+
+$$\tag{13}
+\gamma = \frac{b}{2m}.
+$$
+
+Then it should be assumed
+
+$$\tag{14}
+F_0 \propto \sqrt{I(r)},
+$$
+
+to relate this part with previous one.
