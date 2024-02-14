@@ -131,3 +131,7 @@ v = \sqrt{\frac{\gamma R T}{M}}.
 $$
 
 Sound velocity in water is about 1500 m/s and in air 331 m/s ([Gea-Banacloche, 2020](https://phys.libretexts.org/Bookshelves/University_Physics/University_Physics_(OpenStax)/Book%3A_University_Physics_I_-_Mechanics_Sound_Oscillations_and_Waves_(OpenStax)/17%3A_Sound/17.03%3A_Speed_of_Sound)), while maximum velocity is about 1250-1730 m/s on various sediment, e.g clay-dominated, silt-dominated, sandy, gas-charged, ([Novak et al., 2020](https://doi.org/10.3390/w12020560)).
+
+
+## natural frequency
+Earth natural frequencey of Schumann resonance is about 7.83 Hz ([Biotonomy, 2017](https://www.biotonomy.com/post/how-electromagnetic-pollution-in-buildings-effect-our-wellbeing)). For building it depend also on soil base, e.g Limetone 7.1 Hz, breccia and debris deposits 5.3 Hz, alluvional deposits 4.6 Hz, year of built 4.0 - 5.8 Hz, and number of floors, e.g. 2-5 floors gives 7.0 - 3.6 Hz ([Gangone et al., 2023](https://doi.org/10.1007/s10518-023-01644-8)).
