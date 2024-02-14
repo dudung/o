@@ -11,6 +11,11 @@ header {
   margin-bottom: 1rem;
 }
 
+/* to overwrite header border-bottom style */
+.homepage-header {
+  border-bottom: 0px solid #222;
+}
+
 footer {
   border-top: 1px solid #222;
   margin-top: 1rem;
@@ -23,4 +28,13 @@ a {
 
 pre {
   padding: 1em;
+}
+
+ul.menu-item li {
+  display: inline-block;
+  margin: 5px;
+}
+
+nav {
+  text-align: right;
 }

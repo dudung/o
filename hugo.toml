@@ -3,4 +3,23 @@ languageCode = 'en-us'
 title = 'o'
 theme = 'default'
 
-
+[[menu.main]]
+  name = 'Home'
+  weight = 1
+  identifier = 'home'
+  url = '/'
+[[menu.main]]
+  name = 'Posts'
+  weight = 2
+  identifier = 'posts'
+  url = '/posts/'
+[[menu.main]]
+  name = 'Tags'
+  weight = 3
+  identifier = 'tags'
+  url = '/tags/'
+[[menu.main]]
+  name = 'About'
+  weight = 4
+  identifier = 'about'
+  url = '/about/'
