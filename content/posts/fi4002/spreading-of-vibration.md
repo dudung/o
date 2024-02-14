@@ -112,22 +112,22 @@ to relate this part with previous one.
 
 
 ## velocity
-Sound velocity in fluid is obtained from
+Sound velocity in liquid is obtained from
 
 $$\tag{15}
-v = \sqrt{\frac{B}{\rho}},
+v_{\rm liq} = \sqrt{\frac{B}{\rho}},
 $$
 
 in solid from
 
 $$\tag{16}
-v = \sqrt{\frac{Y}{\rho}},
+v_{\rm sol} = \sqrt{\frac{Y}{\rho}},
 $$
 
 and in ideal gas from
 
 $$\tag{16}
-v = \sqrt{\frac{\gamma R T}{M}}.
+v_{\rm gas} = \sqrt{\frac{\gamma_a R T}{M}}.
 $$
 
 Sound velocity in water is about 1500 m/s and in air 331 m/s ([Gea-Banacloche, 2020](https://phys.libretexts.org/Bookshelves/University_Physics/University_Physics_(OpenStax)/Book%3A_University_Physics_I_-_Mechanics_Sound_Oscillations_and_Waves_(OpenStax)/17%3A_Sound/17.03%3A_Speed_of_Sound)), while maximum velocity is about 1250-1730 m/s on various sediment, e.g clay-dominated, silt-dominated, sandy, gas-charged, ([Novak et al., 2020](https://doi.org/10.3390/w12020560)).
@@ -135,3 +135,11 @@ Sound velocity in water is about 1500 m/s and in air 331 m/s ([Gea-Banacloche, 2
 
 ## natural frequency
 Earth natural frequencey of Schumann resonance is about 7.83 Hz ([Biotonomy, 2017](https://www.biotonomy.com/post/how-electromagnetic-pollution-in-buildings-effect-our-wellbeing)). For building it depend also on soil base, e.g Limetone 7.1 Hz, breccia and debris deposits 5.3 Hz, alluvional deposits 4.6 Hz, year of built 4.0 - 5.8 Hz, and number of floors, e.g. 2-5 floors gives 7.0 - 3.6 Hz ([Gangone et al., 2023](https://doi.org/10.1007/s10518-023-01644-8)).
+
+
+## summaries
++ From Eqns (8), (9), and (11)
+$$\tag{17}
+A(r + \Delta r) = \frac{\omega^2 A(r)}{\sqrt{[\omega_0^2(r) - \omega^2]^2 + 4\gamma^2(r) \omega^2}} \left( \frac{r}{r + \Delta r} \right)
+$$
+with $A_s = A(r_s)$ at the source and $r_s > 0$, it is not a point source but more to spherical source for simplicity.
