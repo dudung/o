@@ -109,3 +109,25 @@ F_0 \propto \sqrt{I(r)},
 $$
 
 to relate this part with previous one.
+
+
+## velocity
+Sound velocity in fluid is obtained from
+
+$$\tag{15}
+v = \sqrt{\frac{B}{\rho}},
+$$
+
+in solid from
+
+$$\tag{16}
+v = \sqrt{\frac{Y}{\rho}},
+$$
+
+and in ideal gas from
+
+$$\tag{16}
+v = \sqrt{\frac{\gamma R T}{M}}.
+$$
+
+Sound velocity in water is about 1500 m/s and in air 331 m/s ([Gea-Banacloche, 2020](https://phys.libretexts.org/Bookshelves/University_Physics/University_Physics_(OpenStax)/Book%3A_University_Physics_I_-_Mechanics_Sound_Oscillations_and_Waves_(OpenStax)/17%3A_Sound/17.03%3A_Speed_of_Sound)), while maximum velocity is about 1250-1730 m/s on various sediment, e.g clay-dominated, silt-dominated, sandy, gas-charged, ([Novak et al., 2020](https://doi.org/10.3390/w12020560)).
