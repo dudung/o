@@ -16,7 +16,7 @@ $$\tag{1}
 \psi_s(t) = \sum_{i=1}^N A_i \sin(\omega_i t + \varphi_i)
 $$
 
-which is simplified as superposition of $N$ simple harmonic motion of physical quantity $A_i$ with angular frequency $\omega_i$, where $A_i$ migth represent difference between variation of air pressure and normal atmospheric pressure
+which is simplified as superposition of $N$ simple harmonic motion of physical quantity $A_i$ with angular frequency $\omega_i$ and initial phase $\varphi_i$, where $A_i$ migth represent difference between variation of air pressure and normal atmospheric pressure
 
 $$\tag{2}
 \Delta p = p(t) - p_0
