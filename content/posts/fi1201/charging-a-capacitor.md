@@ -2,7 +2,7 @@
 title = 'charging a capacitor'
 date = 2021-03-08T09:00:00+07:00
 draft = false
-tags = ['fi1202']
+tags = ['fi1201']
 +++
 Memuati kapasitor
 <!--more-->

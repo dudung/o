@@ -2,7 +2,7 @@
 title = 'potential solid conductive sphere'
 date = 2021-02-22T07:30:00+07:00
 draft = false
-tags = ['fi1202']
+tags = ['fi1201']
 +++
 Potensial listrik bola konduktor pejal
 <!--more-->

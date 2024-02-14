@@ -2,7 +2,7 @@
 title = 'electric field straight infinite wire'
 date = 2021-02-27T07:00:00+07:00
 draft = false
-tags = ['fi1202']
+tags = ['fi1201']
 +++
 Medan listrik di sisi kawat lurus panjang tak hingga bermuatan seragam
 <!--more-->
