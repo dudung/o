@@ -8,7 +8,7 @@ math = true
 Collection of information about noise and vibration
 <!--more-->
 
-+ slide N/A (on 14-feb)
++ slide ~N/A (on 14-feb)~ https://osf.io/xkan8 (15-feb)
 + story https://medium.com/p/617655776d61 (on 14-feb)
 
 
