@@ -7,7 +7,7 @@ tags = ['if5170']
 Plot 1-, 2-, 3-d data
 <!--more-->
 
-+ [`zp2y`7](https://osf.io/zp2y7)
++ [`zp2y7`](https://osf.io/zp2y7)
 + [`23de1e39d16e`](https://medium.com/p/23de1e39d16e)
 
 ## outline
