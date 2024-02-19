@@ -1,12 +1,15 @@
 +++
-title = 'noise-vibration study'
-date = 2024-02-19T19:14:00+07:00
+title = 'noise-vibration pre-study'
+date = 2024-02-20T05:35:00+07:00
 draft = false
 tags = ['fi8094']
 math = true
 +++
-Numerical study on noise-vibration spreading near a power plant
+Numerical pre-study on noise-vibration spreading near a power plant
 <!--more-->
+
++ [`z7gkf`](https://osf.io/z7gkf)
++ [`pwgz6`](https://osf.io/pwgz6)
 
 
 ## airport
