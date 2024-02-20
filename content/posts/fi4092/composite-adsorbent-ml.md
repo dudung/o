@@ -11,4 +11,4 @@ Composite adsorbent modeling with machine learning
 
 
 ## feb
-+ `20-tue` `1400` Topic change, co-supervisor, synthesize in lab, literature.
++ `20-tue` `1400` Topic change, co-supervisor, synthesize in lab, literature. vacation plan.
