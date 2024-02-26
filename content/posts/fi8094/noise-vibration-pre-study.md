@@ -8,8 +8,8 @@ math = true
 Numerical pre-study on noise-vibration spreading near a power plant
 <!--more-->
 
-+ [`z7gkf`](https://osf.io/z7gkf)
-+ [`pwgz6`](https://osf.io/pwgz6)
++ [noise_vibration_pre_study.pdf](https://osf.io/z7gkf)
+  [&middot;](https://osf.io/pwgz6)
 
 
 ## airport
