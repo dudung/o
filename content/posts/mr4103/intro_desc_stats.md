@@ -2,7 +2,7 @@
 title = 'intro desc stats'
 date = 2024-02-26T17:51:00+07:00
 draft = false
-tags = ['if5170']
+tags = ['mr4103']
 +++
 Descriptive statistics: An intro
 <!--more-->

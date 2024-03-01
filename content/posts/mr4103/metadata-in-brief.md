@@ -2,7 +2,7 @@
 title = 'data sains 1'
 date = 2024-01-29T08:00:00+07:00
 draft = false
-tags = ['if5170']
+tags = ['mr4103']
 +++
 Meta data in brief
 <!--more-->

@@ -2,7 +2,7 @@
 title = 'plot 1-, 2-, 3-d data'
 date = 2024-02-18T20:58:00+07:00
 draft = false
-tags = ['if5170']
+tags = ['mr4103']
 +++
 Plot 1-, 2-, 3-d data
 <!--more-->

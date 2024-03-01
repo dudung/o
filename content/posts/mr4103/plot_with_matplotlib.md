@@ -2,7 +2,7 @@
 title = 'plot with matplotlib'
 date = 2024-02-19T03:56:00+07:00
 draft = false
-tags = ['if5170']
+tags = ['mr4103']
 +++
 Plot with Matplotlib
 <!--more-->
