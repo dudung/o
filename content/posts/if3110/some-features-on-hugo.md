@@ -6,7 +6,7 @@ tags = ['if3110']
 math = true
 +++
 Some features on Hugo: JavaScript enhanced static web page.
-<!--more-->
+<!--more--> 
 Additional features on static web page using Hugo.
 
 + N/A
