@@ -9,7 +9,7 @@ Some features on Hugo: JavaScript enhanced static web page.
 <!--more--> 
 Additional features on static web page using Hugo.
 
-+ N/A
++ [some_features_on_hugo.pdf](https://osf.io/u9gkh)
 
 
 ## equation
