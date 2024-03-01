@@ -5,8 +5,9 @@ draft = false
 tags = ['if3110']
 math = true
 +++
-Modeling and simulation: Draw on sand
+Some features on Hugo: JavaScript enhanced static web page.
 <!--more-->
+Additional features on static web page using Hugo.
 
 + N/A
 
