@@ -11,4 +11,5 @@ Composite adsorbent modeling with machine learning
 
 
 ## feb
++ `29-thu` `1400` Experiment preparation, variation design, defining parameters.
 + `20-tue` `1400` Topic change, co-supervisor, synthesize in lab, literature. vacation plan.
