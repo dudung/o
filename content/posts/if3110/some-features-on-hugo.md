@@ -1,8 +1,8 @@
 +++
-title = 'modeling and simulation'
+title = 'some features on hugo'
 date = 2024-03-01T16:14:00+07:00
 draft = false
-tags = ['if4021']
+tags = ['if3110']
 math = true
 +++
 Modeling and simulation: Draw on sand
