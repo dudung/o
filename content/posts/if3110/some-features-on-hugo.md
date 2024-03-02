@@ -271,7 +271,7 @@ L:1/4
 CC GG | AA G2 | CC GG | AA G2 |
 w:Twin- kle, twin- kle, lit- tle star how I won- der what you are!
 GG FF | EE D2 | GG FF | EE D2 |
-w:Up a- bove the world so hight, like a dia- mond in the sky.
+w:Up a- bove the world so high, like a dia- mond in the sky.
 CC GG | AA G2 | FF EE | DD C2 ||
 w:Twin- kle, twin- kle, lit- tle star, how I won- der what you are!
 {{< /blank/abcjs >}}
@@ -285,7 +285,7 @@ L:1/4
 CC GG | AA G2 | CC GG | AA G2 |
 w:Twin- kle, twin- kle, lit- tle star how I won- der what you are!
 GG FF | EE D2 | GG FF | EE D2 |
-w:Up a- bove the world so hight, like a dia- mond in the sky.
+w:Up a- bove the world so high, like a dia- mond in the sky.
 CC GG | AA G2 | FF EE | DD C2 ||
 w:Twin- kle, twin- kle, lit- tle star, how I won- der what you are!
 {{</* /blank/abcjs */>}}
