@@ -320,7 +320,7 @@ $$
 
 ## function $f(t)$
 $$\tag{12}
-f(t) = \sum_{m=1}^\infty a_m \cos \left[ m \left( \frac{2\pi}{1} \right) t \right] + \sum_{m=1}^\infty b_m \sin \left[ m \left( \frac{2\pi}{1} \right) t \right] + c_0
+f(t) = \sum_{m=1}^\infty a_m \cos \left[ m \left( \frac{2\pi}{0.5} \right) t \right] + \sum_{m=1}^\infty b_m \sin \left[ m \left( \frac{2\pi}{0.5} \right) t \right] + c_0
 $$
 
 $$\tag{27}
