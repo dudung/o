@@ -9,6 +9,13 @@ Fourier decomposition example: Three terms -- constant, cosine, sine.
 <!--more-->
 
 + [fourier_decomposition_example.pdf](https://osf.io/ukcmw)
+  - Intro 3
+  - For f(x) 6
+  - For f(t) 10
+  - An example (f1 = 1 Hz) 14
+  - Same example with f1 = 2 Hz 22
+  - General f1 value 30
+  - Discussion and assignment 34
 
 
 ## integral identities $x$
