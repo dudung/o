@@ -12,6 +12,13 @@ Fourier series short intro: Proofs of some integral identities.
   - Intro 3
   - Coefficients 7
   - Related trigonometric identities 15
+  - Integral of sine and cosine 19
+  - Proofs a ≠ b 22
+  - Proofs a = b 26
+  - Integral identities 30
+  - Interval changes 32
+  - Other forms 38
+  - Closing 42
 
 
 ## int sin
