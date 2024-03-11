@@ -16,6 +16,8 @@ Machine learning for species identifikation: Short review
 + It uses underwater towed video imagery and surveys a total of 32 towed video transects, 12 in January 2019 and additional 20 in August 2020.
 + The surveyed area was designed to include a broad variety of reef sites with variable macroalgal cover and species composition, rather than
 overlapping for temporal comparisons.
++ This study was conducted along an approximately 1.7 km section of exposed coastline encompassing Island Bay and Houghton Bay, on the Wellington south coast.
++ Taxonomies levels: two species (Ecklonia radiata and Lessonia variegata), one genus (Carpophyllum spp.: Carpophyllum flexuosum and Carpophyllum maschalocarpum), and a grouping of all macroalgae present.
 
 ### conclusions
 + This study successfully shows that ML is significantly faster than traditional video analysis and is a cost-effective approach to post-process video imagery, and that will improve as more data are collected.
