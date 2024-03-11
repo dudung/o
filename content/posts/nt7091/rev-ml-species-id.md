@@ -4,7 +4,7 @@ date = 2024-03-11T10:11:00+07:00
 draft = false
 tags = ['nt7091']
 +++
-Machine learning for species identifikation: Short review
+Machine learning for species identifikation: Short review for research proposal
 <!--more-->
 
 
@@ -19,9 +19,10 @@ overlapping for temporal comparisons.
 + This study was conducted along an approximately 1.7 km section of exposed coastline encompassing Island Bay and Houghton Bay, on the Wellington south coast.
 + Taxonomies levels: two species (Ecklonia radiata and Lessonia variegata), one genus (Carpophyllum spp.: Carpophyllum flexuosum and Carpophyllum maschalocarpum), and a grouping of all macroalgae present.
 
-### conclusions
+### results
 + This study successfully shows that ML is significantly faster than traditional video analysis and is a cost-effective approach to post-process video imagery, and that will improve as more data are collected.
 + The ML models performed well at detecting and distinguishing between closely related species (Lessonia and Ecklonia), highlighting the accurate fine-tuned performance of thesemodels.
++ NIWA's 'seaweedai' Python package for programming ML models is advanced and will require ongoing maintenance and updating.
 
 
 ## refs
