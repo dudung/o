@@ -25,9 +25,13 @@ overlapping for temporal comparisons.
 + NIWA's 'seaweedai' Python package for programming ML models is advanced and will require ongoing maintenance and updating.
 
 
+## b_2023
+
+
+
 ## refs
 + [`qbwa7`](https://osf.io/qbwa7) **`(Archino et al., 2021)`** R. D'Archino, A. C. G. Schimel, C. Peat, T. Anderson, "Automated detection of large brown macroalgae using machine learning algorithms—a case study from Island Bay, Wellington", New Zealand Aquatic Environment and Biodiversity Report, no 263, Fisheries New Zealand, Jun 2021, url https://docs.niwa.co.nz/library/public/NZAEBR-263.pdf [20240311].
-+ **`(B & Juliet, 2023)`** Persia Abishal B, Sujitha Juliet, "Image-Based Bird Species Identification Using Machine Learning", 2023 9th International Conference on Advanced Computing and Communication Systems (ICACCS), Coimbatore, India, 2023, pp 1963-1968, url https://doi.org/10.1109/ICACCS57279.2023.10113103.
++ [`9qktc`](https://osf.io/9qktc) **`(B & Juliet, 2023)`** Persia Abishal B, Sujitha Juliet, "Image-Based Bird Species Identification Using Machine Learning", 2023 9th International Conference on Advanced Computing and Communication Systems (ICACCS), Coimbatore, India, 2023, pp 1963-1968, url https://doi.org/10.1109/ICACCS57279.2023.10113103.
 + **`(Bartlett et al., 2022)`** Peter Bartlett, Ursula Eberhardt, Nicole Schütz, Henry J. Beker, "Species determination using AI machine-learning algorithms: Hebeloma as a case study", IMA Fungus [IMA Fungus], vol 13, no, p 13, Jun 2022, url https://doi.org/10.1186/s43008-022-00099-x.
 + **`(Gramener, 2021)`** Gramener, "Species Detection With Machine Learning: Simplifying Efforts for Conservation Organizations", Medium, 21 Sep 2021, url https://medium.com/p/3d97b3d1f65e [20240311].
 + **`(Gupta & Homchan, 2021)`** Yash Munnalal Gupta, Somjit Homchan, "Short communication: Insect detection using a machine learning model", Nusantara Bioscience [Nus Biosci], vol 13, no 1, p 68-72, May 2021, url https://doi.org/10.13057/nusbiosci/n130110.
