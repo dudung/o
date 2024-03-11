@@ -8,9 +8,22 @@ Machine learning for species identifikation: Short review
 <!--more-->
 
 
+## archino_2021
+### purposes
++ This study is designed for automated detection and identification of three habitat-forming brown macroalgae within the Island Bay to Houghton Bay study region (Taputeranga Marine Reserve) in Wellington.
+
+### observations
++ It uses underwater towed video imagery and surveys a total of 32 towed video transects, 12 in January 2019 and additional 20 in August 2020.
++ The surveyed area was designed to include a broad variety of reef sites with variable macroalgal cover and species composition, rather than
+overlapping for temporal comparisons.
+
+### conclusions
++ This study successfully shows that ML is significantly faster than traditional video analysis and is a cost-effective approach to post-process video imagery, and that will improve as more data are collected.
++ The ML models performed well at detecting and distinguishing between closely related species (Lessonia and Ecklonia), highlighting the accurate fine-tuned performance of thesemodels.
+
 
 ## refs
-+ **`(D'Archino et al., 2021)`** R. D'Archino, A. C. G. Schimel, C. Peat, T. Anderson, "Automated detection of large brown macroalgae using machine learning algorithms—a case study from Island Bay, Wellington", New Zealand Aquatic Environment and Biodiversity Report, no 263, Fisheries New Zealand, Jun 2021, url https://docs.niwa.co.nz/library/public/NZAEBR-263.pdf [20240311].
++ [`qbwa7`](https://osf.io/qbwa7) **`(Archino et al., 2021)`** R. D'Archino, A. C. G. Schimel, C. Peat, T. Anderson, "Automated detection of large brown macroalgae using machine learning algorithms—a case study from Island Bay, Wellington", New Zealand Aquatic Environment and Biodiversity Report, no 263, Fisheries New Zealand, Jun 2021, url https://docs.niwa.co.nz/library/public/NZAEBR-263.pdf [20240311].
 + **`(B & Juliet, 2023)`** Persia Abishal B, Sujitha Juliet, "Image-Based Bird Species Identification Using Machine Learning", 2023 9th International Conference on Advanced Computing and Communication Systems (ICACCS), Coimbatore, India, 2023, pp 1963-1968, url https://doi.org/10.1109/ICACCS57279.2023.10113103.
 + **`(Bartlett et al., 2022)`** Peter Bartlett, Ursula Eberhardt, Nicole Schütz, Henry J. Beker, "Species determination using AI machine-learning algorithms: Hebeloma as a case study", IMA Fungus [IMA Fungus], vol 13, no, p 13, Jun 2022, url https://doi.org/10.1186/s43008-022-00099-x.
 + **`(Gramener, 2021)`** Gramener, "Species Detection With Machine Learning: Simplifying Efforts for Conservation Organizations", Medium, 21 Sep 2021, url https://medium.com/p/3d97b3d1f65e [20240311].
