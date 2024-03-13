@@ -47,12 +47,27 @@ overlapping for temporal comparisons.
 + The developed system was able to identify 77% correctly with its highest probabilistic match, 96% within its three likely determinations and over 99% of collections within its five most likely determinations.
 
 
+## gupta_2021
+### purposes
++ The scientific classification of a species demands prior knowledge for identification, which is suitable for machine learning based system.
++ Automatic identification using machine learning model can be used to reduce time, cost, and labor.
+
+### methods
++ Google teachable machine (GTM) is a fairly new graphical user interface (GUI) based tool introduced in 2019, that is based on TensorFlow, which is Javascript library of ML algorithms.
++ It does not require coding or scripting skills to build ML models (Carney et al. 2020).
+
+### results
++ It shows that the ML model can be developed with ease using GTM and incorporated in mobile and website or can be directly excess with the shareable link.
++ The key strengths of this study are its user-friendly online ML platform and accessibility after training the cricket classification model.
++ ML model can be trained on the GTM platform for image-based classification in biological sciences, including insect classification (current study only uses two cricket species).
+
+
 ## refs
 + [`qbwa7`](https://osf.io/qbwa7) **`(Archino et al., 2021)`** R. D'Archino, A. C. G. Schimel, C. Peat, T. Anderson, "Automated detection of large brown macroalgae using machine learning algorithms—a case study from Island Bay, Wellington", New Zealand Aquatic Environment and Biodiversity Report, no 263, Fisheries New Zealand, Jun 2021, url https://docs.niwa.co.nz/library/public/NZAEBR-263.pdf [20240311].
 + [`9qktc`](https://osf.io/9qktc) **`(B & Juliet, 2023)`** Persia Abishal B, Sujitha Juliet, "Image-Based Bird Species Identification Using Machine Learning", 2023 9th International Conference on Advanced Computing and Communication Systems (ICACCS), Coimbatore, India, 2023, pp 1963-1968, url https://doi.org/10.1109/ICACCS57279.2023.10113103.
 + [`nck8h`](https://osf.io/nck8h) **`(Bartlett et al., 2022)`** Peter Bartlett, Ursula Eberhardt, Nicole Schütz, Henry J. Beker, "Species determination using AI machine-learning algorithms: Hebeloma as a case study", IMA Fungus [IMA Fungus], vol 13, no, p 13, Jun 2022, url https://doi.org/10.1186/s43008-022-00099-x.
 + **`(Gramener, 2021)`** Gramener, "Species Detection With Machine Learning: Simplifying Efforts for Conservation Organizations", Medium, 21 Sep 2021, url https://medium.com/p/3d97b3d1f65e [20240311].
-+ **`(Gupta & Homchan, 2021)`** Yash Munnalal Gupta, Somjit Homchan, "Short communication: Insect detection using a machine learning model", Nusantara Bioscience [Nus Biosci], vol 13, no 1, p 68-72, May 2021, url https://doi.org/10.13057/nusbiosci/n130110.
++ [`qxr8s`](https://osf.io/qxr8s) **`(Gupta & Homchan, 2021)`** Yash Munnalal Gupta, Somjit Homchan, "Short communication: Insect detection using a machine learning model", Nusantara Bioscience [Nus Biosci], vol 13, no 1, p 68-72, May 2021, url https://doi.org/10.13057/nusbiosci/n130110.
 + **`(Huot et al., 2023)`** Matthieu Huot, Fraser Dalgleish, David Beauchesne, Michel Piché, Philippe Archambault, "Machine learning for underwater laser detection and differentiation of macroalgae and coral", Frontiers in Remote Sensing [Front Remote Sens], vol 4, no, p 1135501, Jun 2023, url https://doi.org/10.3389/frsen.2023.1135501.
 + **`(Kaur & Kaur, 2019)`** Surleen Kaur, Prabhpreet Kaur, "Plant Species Identification based on Plant Leaf Using Computer Vision and Machine Learning Techniques", Journal of Multimedia Information System [J Multimed Inf Syst], vol 6, no 2, p 49-60, Jun 2019, url https://doi.org/10.33851/JMIS.2019.6.2.49.
 + **`(Labrighli et al., 2022)`** Khaoula Labrighli, Chouaib Moujahdi, Jalal El Oualidi, Laila Rhazi, "Artificial Intelligence for Automated Plant Species Identification: A Review", International Journal of Advanced Computer Science and Applications [Int J Adv Comput Sci Appl, IJACSA], vol 13, no 10, p 814-825, Oct 2022, url http://dx.doi.org/10.14569/IJACSA.2022.0131097.
