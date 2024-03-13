@@ -7,6 +7,11 @@ tags = ['nt7091']
 Machine learning for species identifikation: Short review for research proposal
 <!--more-->
 
++ [rev_ml_species_id.pdf](https://osf.io/6fsy9)
+  - Archino et al. (2021) 3
+  - B et al. (2023) 11
+  - Bartlett et al. (2022) 18
+  - Gupta et al. (2021) 28
 
 ## archino_2021
 ### purposes
