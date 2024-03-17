@@ -8,7 +8,7 @@ math = true
 Short introduction to numerical integration
 <!--more-->
 
-+ ..
++ [intro_num_integ.pdf](https://osf.io/2akug)
 
 
 ## refs
