@@ -5,10 +5,19 @@ draft = false
 tags = ['fi4002']
 math = true
 +++
-Short introduction to numerical integration
+Numerical integration: A short introduction
 <!--more-->
 
 + [intro_num_integ.pdf](https://osf.io/2akug)
+
+
+## outline
++ Intro 3
++ Theory 10
++ Some rules and errors 18
++ Case $y = x^2$ 25
++ Practical formulas 34
++ Closing 42
 
 
 ## intro
