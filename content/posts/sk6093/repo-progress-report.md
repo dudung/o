@@ -11,3 +11,7 @@ Repository progress report: Learning to make it with sufficient information
 
 
 ## outlline
++ Intro 3
++ Schedule and progress 7
++ Issues  10
++ Assignment 19
