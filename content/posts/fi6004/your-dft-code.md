@@ -59,11 +59,11 @@ $$
 \left[
 \begin{array}{cccccc}
 1 & 1 & 1 & \dots & 1 & 1 \newline \newline
-\cos \left( \frac{2\pi}{N} \right) & \cos \left( \frac{2\pi}{N} \cdot 1 \right) & \cos \left( \frac{2\pi}{N} \cdot 2 \right) & \dots & \cos \left( \frac{2\pi}{N} \cdot (N-2) \right) & \cos \left( \frac{2\pi}{N} \cdot (N-1) \right) \newline \newline
-\cos \left( \frac{4\pi}{N} \right) & \cos \left( \frac{2\pi k}{N} \cdot 1 \right) & \cos \left( \frac{2\pi k}{N} \cdot 2 \right) & \dots & \cos \left( \frac{2\pi k}{N} \cdot (N-2) \right) & \cos \left( \frac{2\pi k}{N} \cdot (N-1) \right) \newline \newline
+1 & \cos \left( \frac{2\pi}{N} \cdot 1 \right) & \cos \left( \frac{2\pi}{N} \cdot 2 \right) & \dots & \cos \left( \frac{2\pi}{N} \cdot (N-2) \right) & \cos \left( \frac{2\pi}{N} \cdot (N-1) \right) \newline \newline
+1 & \cos \left( \frac{2\pi k}{N} \cdot 1 \right) & \cos \left( \frac{2\pi k}{N} \cdot 2 \right) & \dots & \cos \left( \frac{2\pi k}{N} \cdot (N-2) \right) & \cos \left( \frac{2\pi k}{N} \cdot (N-1) \right) \newline \newline
 \vdots & \vdots &\vdots & \ddots & \vdots & \vdots \newline \newline
-\cos \left( \frac{2\pi(N-2)}{N} \right) & \cos \left( \frac{2\pi(N-2)}{N} \cdot 1 \right) & \cos \left( \frac{2\pi(N-2)}{N} \cdot 2 \right) & \dots & \cos \left( \frac{2\pi (N-2)}{N} \cdot (N-2) \right) & \cos \left( \frac{2\pi (N-2)}{N} \cdot (N-1) \right) \newline \newline
-\cos \left( \frac{2\pi(N-1)}{N} \right) & \cos \left( \frac{2\pi(N-1)}{N} \cdot 1 \right) & \cos \left( \frac{2\pi(N-1)}{N} \cdot 2 \right) & \dots & \cos \left( \frac{2\pi(N-1)}{N} \cdot (N-2) \right) & \cos \left( \frac{2\pi(N-1)}{N} \cdot (N-1) \right)
+1 & \cos \left( \frac{2\pi(N-2)}{N} \cdot 1 \right) & \cos \left( \frac{2\pi(N-2)}{N} \cdot 2 \right) & \dots & \cos \left( \frac{2\pi (N-2)}{N} \cdot (N-2) \right) & \cos \left( \frac{2\pi (N-2)}{N} \cdot (N-1) \right) \newline \newline
+1 & \cos \left( \frac{2\pi(N-1)}{N} \cdot 1 \right) & \cos \left( \frac{2\pi(N-1)}{N} \cdot 2 \right) & \dots & \cos \left( \frac{2\pi(N-1)}{N} \cdot (N-2) \right) & \cos \left( \frac{2\pi(N-1)}{N} \cdot (N-1) \right)
 \end{array}
 \right]
 \left[
@@ -92,11 +92,11 @@ $$
 \left[
 \begin{array}{cccccc}
 0 & 0 & 0 & \dots & 0 & 0 \newline \newline
-\sin \left( \frac{2\pi}{N} \right) & \sin \left( \frac{2\pi}{N} \cdot 1 \right) & \sin \left( \frac{2\pi}{N} \cdot 2 \right) & \dots & \sin \left( \frac{2\pi}{N} \cdot (N-2) \right) & \sin \left( \frac{2\pi}{N} \cdot (N-1) \right) \newline \newline
-\sin \left( \frac{4\pi}{N} \right) & \sin \left( \frac{2\pi k}{N} \cdot 1 \right) & \sin \left( \frac{2\pi k}{N} \cdot 2 \right) & \dots & \sin \left( \frac{2\pi k}{N} \cdot (N-2) \right) & \sin \left( \frac{2\pi k}{N} \cdot (N-1) \right) \newline \newline
+0 & \sin \left( \frac{2\pi}{N} \cdot 1 \right) & \sin \left( \frac{2\pi}{N} \cdot 2 \right) & \dots & \sin \left( \frac{2\pi}{N} \cdot (N-2) \right) & \sin \left( \frac{2\pi}{N} \cdot (N-1) \right) \newline \newline
+0 & \sin \left( \frac{2\pi k}{N} \cdot 1 \right) & \sin \left( \frac{2\pi k}{N} \cdot 2 \right) & \dots & \sin \left( \frac{2\pi k}{N} \cdot (N-2) \right) & \sin \left( \frac{2\pi k}{N} \cdot (N-1) \right) \newline \newline
 \vdots & \vdots &\vdots & \ddots & \vdots & \vdots \newline \newline
-\sin \left( \frac{2\pi(N-2)}{N} \right) & \sin \left( \frac{2\pi(N-2)}{N} \cdot 1 \right) & \sin \left( \frac{2\pi(N-2)}{N} \cdot 2 \right) & \dots & \sin \left( \frac{2\pi (N-2)}{N} \cdot (N-2) \right) & \sin \left( \frac{2\pi (N-2)}{N} \cdot (N-1) \right) \newline \newline
-\sin \left( \frac{2\pi(N-1)}{N} \right) & \sin \left( \frac{2\pi(N-1)}{N} \cdot 1 \right) & \sin \left( \frac{2\pi(N-1)}{N} \cdot 2 \right) & \dots & \sin \left( \frac{2\pi(N-1)}{N} \cdot (N-2) \right) & \sin \left( \frac{2\pi(N-1)}{N} \cdot (N-1) \right)
+0 & \sin \left( \frac{2\pi(N-2)}{N} \cdot 1 \right) & \sin \left( \frac{2\pi(N-2)}{N} \cdot 2 \right) & \dots & \sin \left( \frac{2\pi (N-2)}{N} \cdot (N-2) \right) & \sin \left( \frac{2\pi (N-2)}{N} \cdot (N-1) \right) \newline \newline
+0 & \sin \left( \frac{2\pi(N-1)}{N} \cdot 1 \right) & \sin \left( \frac{2\pi(N-1)}{N} \cdot 2 \right) & \dots & \sin \left( \frac{2\pi(N-1)}{N} \cdot (N-2) \right) & \sin \left( \frac{2\pi(N-1)}{N} \cdot (N-1) \right)
 \end{array}
 \right]
 \left[
