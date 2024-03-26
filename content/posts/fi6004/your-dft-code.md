@@ -55,7 +55,6 @@ $$\tag{6}
 y_k^{\rm Im} = -\sum_{n=0}^{N-1} x_n \sin \left( \frac{2\pi kn}{N} \right)
 $$
 
-
 $$
 \left[
 \begin{array}{cccccc}
@@ -88,6 +87,40 @@ y_{N-1}^{\rm Re}
 \end{array}
 \right]
 $$
+
+$$
+\left[
+\begin{array}{cccccc}
+0 & 0 & 0 & \dots & 0 & 0 \newline \newline
+\sin \left( \frac{2\pi}{N} \right) & \sin \left( \frac{2\pi}{N} \cdot 1 \right) & \sin \left( \frac{2\pi}{N} \cdot 2 \right) & \dots & \sin \left( \frac{2\pi}{N} \cdot (N-2) \right) & \sin \left( \frac{2\pi}{N} \cdot (N-1) \right) \newline \newline
+\sin \left( \frac{4\pi}{N} \right) & \sin \left( \frac{2\pi k}{N} \cdot 1 \right) & \sin \left( \frac{2\pi k}{N} \cdot 2 \right) & \dots & \sin \left( \frac{2\pi k}{N} \cdot (N-2) \right) & \sin \left( \frac{2\pi k}{N} \cdot (N-1) \right) \newline \newline
+\vdots & \vdots &\vdots & \ddots & \vdots & \vdots \newline \newline
+\sin \left( \frac{2\pi(N-2)}{N} \right) & \sin \left( \frac{2\pi(N-2)}{N} \cdot 1 \right) & \sin \left( \frac{2\pi(N-2)}{N} \cdot 2 \right) & \dots & \sin \left( \frac{2\pi (N-2)}{N} \cdot (N-2) \right) & \sin \left( \frac{2\pi (N-2)}{N} \cdot (N-1) \right) \newline \newline
+\sin \left( \frac{2\pi(N-1)}{N} \right) & \sin \left( \frac{2\pi(N-1)}{N} \cdot 1 \right) & \sin \left( \frac{2\pi(N-1)}{N} \cdot 2 \right) & \dots & \sin \left( \frac{2\pi(N-1)}{N} \cdot (N-2) \right) & \sin \left( \frac{2\pi(N-1)}{N} \cdot (N-1) \right)
+\end{array}
+\right]
+\left[
+\begin{array}{c}
+x_0 \newline \newline
+x_1 \newline \newline
+x_2 \newline \newline
+\vdots \newline \newline
+x_{N-2} \newline \newline
+x_{N-1}
+\end{array}
+\right] =
+\left[
+\begin{array}{c}
+y_0^{\rm Re} \newline \newline
+y_1^{\rm Re} \newline \newline
+y_2^{\rm Re} \newline \newline
+\vdots \newline \newline
+y_{N-2}^{\rm Re} \newline \newline
+y_{N-1}^{\rm Re}
+\end{array}
+\right]
+$$
+
 
 ## refs
 + Erik Cheever, “Introduction to the Fourier Transform”, Linear Physical Systems Analysis, Swarthmore College, 2022, url https://lpsa.swarthmore.edu/Fourier/Xforms/FXformIntro.html [20240326].
