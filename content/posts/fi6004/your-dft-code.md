@@ -8,7 +8,14 @@ math = true
 Discrete Fourier Transform: Create your onw code
 <!--more-->
 
-+ []()
++ [create_your_dft_code.pdf](https://osf.io/z9f35)
+
+
+## outline
++ intro 3
++ Discrete Fourier Transform 8
++ Implementation 12
++ Closing 22
 
 
 ## equations
@@ -35,8 +42,6 @@ $\ \ \ \ \ \ \ \ $
 $$\tag{4}
 x(t) = 3 \sin 20\pi t + 4 \cos 5\pi t + 1
 $$
-
-
 
 
 ## refs
