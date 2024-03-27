@@ -4,7 +4,7 @@ date = 2024-03-27T22:15:00+07:00
 draft = false
 tags = ['nt6094']
 +++
-Layanan akses publikasi, jenis publikasi, syarat kelulusan
+Journal introduction with AI: AI-assisted content creating
 <!--more-->
 
 + [journal_intro_with_ai_help.pdf](https://osf.io/3s7kb)
