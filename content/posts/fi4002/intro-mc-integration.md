@@ -12,3 +12,11 @@ Monte Carlo Integration: A very short intro with examples
 
 ## outline
 + Intro 3
+
+
+## refs
++ Acep Purqon, Sparisoma Viridi, “Bilangan acak dan metode Monte Carlo: Pengenalan dan pemanfaatan sederhananya dalam fisika”, Zenodo, 23 Sep 2022, url https://doi.org/10.5281/zenodo.7106168.
++ Victor Cumer, "The basics of Monte Carlo integration: Implementation in python", Towards Data Science -- Medium, 26 Oct 2020, url https://medium.com/p/5fe16b40482d [20240328].
++ Jean-Colas Prunier (founder), "Monte Carlo Methods in Practice", Scratchapixel 4.0, 19 Jun 2015, url https://www.scratchapixel.com/lessons/mathematics-physics-for-computer-graphics/monte-carlo-methods-in-practice/monte-carlo-integration.html [20240328]. 
++ Wojciech Jarosz, "Appendix A: Monte Carlo Integration", in Efficient Monte Carlo Methods for Light Transport in Scattering Media. Ph.D. dissertation, UC San Diego, Sep 2008, url https://cs.dartmouth.edu/~wjarosz/publications/dissertation/appendixA.pdf [20240328].
++ Christopher Taylor, Rain Kengly, "4 Easy Ways to Find the Publication Date of a Website", wikHow, 9 Jan 2024, url https://www.wikihow.com/Find-the-Publication-Date-of-a-Website [20240328].
