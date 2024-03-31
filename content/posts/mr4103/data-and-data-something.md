@@ -16,4 +16,8 @@ Data and data-something: Some terms related to data
 + Dataset and database 18
 + Data warehouse and data lake 29
 + Data lakehouse 44
-+ Closing -3
++ DataFrame 60
++ Dataset 63
++ Not so related: Apache 74Spark
++ Data source 90
++ Closing 97
