@@ -12,6 +12,13 @@ Monte Carlo Integration: A very short intro with examples
 
 ## outline
 + Intro 3
++ Random numbers 14
++ Linear function 17
++ Quadratic function 24
++ Cubic function 31
++ Sine squared function 38
++ Quarter circle 45
++ Quarter circle 2 52
 
 
 ## refs
