@@ -17,8 +17,9 @@ Monte Carlo Integration: A very short intro with examples
 + Quadratic function 24
 + Cubic function 31
 + Sine squared function 38
-+ Quarter circle 45
++ Quarter circle 1 45
 + Quarter circle 2 52
++ Closing 87
 
 
 ## refs
